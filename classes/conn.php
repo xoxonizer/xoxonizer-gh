@@ -1,3 +1,7 @@
 <?php
 // connection
+class conn {
+
+    
+}
 ?>
