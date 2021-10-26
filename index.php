@@ -3,6 +3,7 @@
     *   init modules 2021
     */
 
+    require 'classes/conn.php';
     require 'helper.php';
     $helper = new helper;
 
