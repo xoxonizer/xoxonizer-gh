@@ -8,4 +8,5 @@
     $helper = new helper;
 
     echo $helper->sayHi();
+    echo 1;
 ?>
